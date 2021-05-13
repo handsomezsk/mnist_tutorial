@@ -21,4 +21,13 @@ Code tested on following environments, other version should also work:
 * keras 2.1.2
 
 # For students from SJTU
-Please read [HEAR](EE369.md).
+| Qusetion | Train accuracy | Test accracy |
+| :------: | :------------: | :----------: |
+|    Q1    |     97.28%     |    88.60%    |
+|    Q2    |     81.80%     |    82.00%    |
+|    Q3    |     97.80%     |    85.60%    |
+|    Q4    |     95.88%     |    89.00%    |
+|    Q5    |     99.47%     |    98.72%    |
+
+## I use Lenet-5 to finish pytorch.ipynb
+
